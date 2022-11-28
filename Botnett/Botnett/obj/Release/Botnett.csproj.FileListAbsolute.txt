@@ -1,0 +1,8 @@
+D:\cs166-pr-starter\vsproj\Botnett\Botnett\bin\Release\Botnett.exe.config
+D:\cs166-pr-starter\vsproj\Botnett\Botnett\bin\Release\Botnett.exe
+D:\cs166-pr-starter\vsproj\Botnett\Botnett\bin\Release\Botnett.pdb
+D:\cs166-pr-starter\vsproj\Botnett\Botnett\obj\Release\Botnett.csproj.AssemblyReference.cache
+D:\cs166-pr-starter\vsproj\Botnett\Botnett\obj\Release\Botnett.csproj.SuggestedBindingRedirects.cache
+D:\cs166-pr-starter\vsproj\Botnett\Botnett\obj\Release\Botnett.csproj.CoreCompileInputs.cache
+D:\cs166-pr-starter\vsproj\Botnett\Botnett\obj\Release\Botnett.exe
+D:\cs166-pr-starter\vsproj\Botnett\Botnett\obj\Release\Botnett.pdb
