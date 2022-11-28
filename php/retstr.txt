@@ -1,0 +1,13 @@
+ Volume in drive D is Hyperdrive
+ Volume Serial Number is 4CB0-7F6A
+
+ Directory of D:\cs166-pr-starter\vsproj\Botnett\Botnett\bin\Debug
+
+11/27/2022  02:00 PM    <DIR>          .
+11/27/2022  02:00 PM    <DIR>          ..
+11/27/2022  02:00 PM             7,168 Botnett.exe
+11/27/2022  01:53 PM               189 Botnett.exe.config
+11/27/2022  02:00 PM            28,160 Botnett.pdb
+               3 File(s)         35,517 bytes
+               2 Dir(s)  391,813,967,872 bytes free
+
